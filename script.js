@@ -3,7 +3,7 @@ let audios = [
     {caminho:'Iframe Dias De Luta, Dias De Gloria [OTEi45AFO7Y].mp3', legenda:'Dias de luta'},
     {caminho:'Iframe Jesus Chorou [jLfWZ0nhTAE].mp3', legenda:'Jesus chorou'},
     {caminho:'Iframe Quero Ser Feliz Também [W_tiWYt5YTI].mp3', legenda:'Quero ser feliz'},
-    {caminho:'musica5.mp3', legenda:'Pisando descalço'},
+    {caminho:'Iframe Só Os Loucos Sabem [xfyeyZ-u_dU].mp3', legenda:'Só os loucos sabem'},
     {caminho:'musica6.mp3', legenda:'Presente de um beija flor'},
     {caminho:'musica7.mp3', legenda:'Tordilho negro'},
     {caminho:'musica8.mp3', legenda:'Um bom lugar'},
