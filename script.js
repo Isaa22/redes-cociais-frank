@@ -2,7 +2,7 @@ let audios = [
     {caminho:'Iframe A vida É Desafio - Nada Como Um Dia Após O Outro Dia (Chora Agora) [Wb3rvC6z5ao] (1).mp3', legenda:'A vida é desafio'},
     {caminho:'Iframe Dias De Luta, Dias De Gloria [OTEi45AFO7Y].mp3', legenda:'Dias de luta'},
     {caminho:'Iframe Jesus Chorou [jLfWZ0nhTAE].mp3', legenda:'Jesus chorou'},
-    {caminho:'musica4.mp3', legenda:'Ceu azul'},
+    {caminho:'Iframe Quero Ser Feliz Também [W_tiWYt5YTI].mp3', legenda:'Quero ser feliz'},
     {caminho:'musica5.mp3', legenda:'Pisando descalço'},
     {caminho:'musica6.mp3', legenda:'Presente de um beija flor'},
     {caminho:'musica7.mp3', legenda:'Tordilho negro'},
