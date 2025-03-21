@@ -1,6 +1,6 @@
 let audios = [
     {caminho:'Iframe A vida É Desafio - Nada Como Um Dia Após O Outro Dia (Chora Agora) [Wb3rvC6z5ao] (1).mp3', legenda:'A vida é desafio'},
-    {caminho:'musica2.mp3', legenda:'Boi soberano'},
+    {caminho:'Iframe Dias De Luta, Dias De Gloria [OTEi45AFO7Y].mp3', legenda:'Dias de luta'},
     {caminho:'musica3.mp3', legenda:'Cabeça de gelo'},
     {caminho:'musica4.mp3', legenda:'Ceu azul'},
     {caminho:'musica5.mp3', legenda:'Pisando descalço'},
