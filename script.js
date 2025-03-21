@@ -4,7 +4,7 @@ let audios = [
     {caminho:'Iframe Jesus Chorou [jLfWZ0nhTAE].mp3', legenda:'Jesus chorou'},
     {caminho:'Iframe Quero Ser Feliz Também [W_tiWYt5YTI].mp3', legenda:'Quero ser feliz'},
     {caminho:'Iframe Só Os Loucos Sabem [xfyeyZ-u_dU].mp3', legenda:'Só os loucos sabem'},
-    {caminho:'musica6.mp3', legenda:'Presente de um beija flor'},
+    {caminho:'Iframe Tamo Ai Na Atividade [V5qPC6ucduo].mp3', legenda:'Tamo ai'},
     {caminho:'musica7.mp3', legenda:'Tordilho negro'},
     {caminho:'musica8.mp3', legenda:'Um bom lugar'},
     {caminho:'musica9.mp3', legenda:'eletronica'},
