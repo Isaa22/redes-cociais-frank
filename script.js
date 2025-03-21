@@ -6,7 +6,7 @@ let audios = [
     {caminho:'Iframe Só Os Loucos Sabem [xfyeyZ-u_dU].mp3', legenda:'Só os loucos sabem'},
     {caminho:'Iframe Tamo Ai Na Atividade [V5qPC6ucduo].mp3', legenda:'Tamo ai'},
     {caminho:'Iframe Vida loka parte 1 - Racionais Mcs [jc36BlAEWlQ].mp3', legenda:'Vida loka'},
-    {caminho:'musica8.mp3', legenda:'Um bom lugar'},
+    {caminho:'Iframe Zóio De Lula [Df_gGM1h9No].mp3', legenda:'Zoio de lula'},
     {caminho:'musica9.mp3', legenda:'eletronica'},
 ];
 
