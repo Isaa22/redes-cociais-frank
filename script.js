@@ -7,7 +7,7 @@ let audios = [
     {caminho:'Iframe Tamo Ai Na Atividade [V5qPC6ucduo].mp3', legenda:'Tamo ai'},
     {caminho:'Iframe Vida loka parte 1 - Racionais Mcs [jc36BlAEWlQ].mp3', legenda:'Vida loka'},
     {caminho:'Iframe Zóio De Lula [Df_gGM1h9No].mp3', legenda:'Zoio de lula'},
-    {caminho:'musica9.mp3', legenda:'eletronica'},
+    {caminho:'musica1.mp3', legenda:'365 dias'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
