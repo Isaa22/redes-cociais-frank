@@ -1,7 +1,12 @@
 html, body {
+    background: url('');
     margin: 0;
     padding: 0;
-    background-color: #581eb5;
+    background-color: #0B0B61; 
+}');
+    margin: 0;
+    padding: 0;
+    background-color: #0B0B61; 
 }
 
 .foto-container {
